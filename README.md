@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img src="![image](https://github.com/kudupudihemeswari/kudupudihemeswari/assets/152505303/dd5483b2-f1d6-450e-92bd-ad77961e99c4)
 " alt=""height="500"width="500">
-<img src="pexels-ashvini-bmr-13297601.jpg" alt=""height="500"width="500">
 <video src="Product 3D Animation _ Blender 3D _ Cycles Render.mp4" alt=""height="500"width="1000" controls autoplay muted></video>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kudupudihemeswari&label=Profile%20views&color=0e75b6&style=flat" alt="kudupudihemeswari" /> </p>
