@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm hemeswari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw0JpMJ17sQYi9w-qr7GTSzC&ust=1702561594737000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCovc7GjIMDFQAAAAAdAAAAABAQ">
+<img align="right"alt="coding"width="400"src="![image](https://github.com/kudupudihemeswari/kudupudihemeswari/assets/152505303/8a660df4-2952-4bcb-9c4f-f7b058f87afe)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kudupudihemeswari&label=Profile%20views&color=0e75b6&style=flat" alt="kudupudihemeswari" /> </p>
 
